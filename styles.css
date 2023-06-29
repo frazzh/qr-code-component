@@ -1,0 +1,10 @@
+html {
+	border: 1em solid orange;
+}
+body {
+	border: 1em solid red;
+	background-color: white;
+}
+.container {
+	background-color: orange;
+}
